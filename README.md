@@ -8,4 +8,5 @@
 At present, it runs in the ropsten test network, and its functions are gradually improved
 If you need to register, use metamask
 
-![用MetaMask注册用户](http://123.56.68.121:8080/ipfs/QmcF5MeyuvPLiCxEBTgPtnBEj8Yj95rrQkWsVr1T9c4HqT "用MetaMask注册用户")
+
+[![用MetaMask注册用户](http://123.56.68.121:8080/ipfs/QmcF5MeyuvPLiCxEBTgPtnBEj8Yj95rrQkWsVr1T9c4HqT "用MetaMask注册用户")](http://123.56.68.121:8080/ipfs/QmcF5MeyuvPLiCxEBTgPtnBEj8Yj95rrQkWsVr1T9c4HqT)
